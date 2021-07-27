@@ -1,0 +1,33 @@
+body {
+background-color: yellow;
+	color:black;
+}
+
+
+タイトル {
+margin: 0;
+
+}
+
+#video {
+}
+
+#タイトル {
+background-color: black;
+color: #FFFFFF;
+padding: 1px;
+}
+
+#文1{
+	color: black;
+}
+
+#video {
+	
+	background-color:black;
+}
+
+#footer {
+color: #ffffff;
+	background-color:black
+}

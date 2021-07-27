@@ -1,0 +1,41 @@
+body {
+background-color: #b026ff;
+	text-align:center;
+}
+
+
+リンク {
+text-align: center;
+}
+
+タイトル {
+margin: 0;
+	text-align: center;
+}
+
+#video {
+}
+
+#タイトル {
+background-color: mediumpurple;
+color: #FFEB14;
+padding: 1px;
+}
+
+#ページ {
+	color: chartreuse
+}
+
+#RED {
+	
+	color:red
+}
+
+#リンク {
+color: #ff7605;
+}
+
+#著作権 {
+color: #ff3129;
+}
+
